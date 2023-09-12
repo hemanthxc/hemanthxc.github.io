@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: Home of Hemanth
 description: Bookmark this to keep an eye on my project updates :-)
+
+layout: page
+title: "download"
+permalink: /download
